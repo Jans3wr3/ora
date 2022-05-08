@@ -1,0 +1,1 @@
+Az első JavaScript-kódom:))
